@@ -18,6 +18,18 @@
 // Sizes
 //
 
+%font--giga {
+  font-size: $base-font-size * 4;
+}
+
+%font--mega {
+  font-size: $base-font-size * 3;
+}
+
+%font--kilo {
+  font-size: $base-font-size * 2;
+}
+
 %font--milli {
   font-size: $base-font-size * 0.875;
 }
