@@ -1,0 +1,27 @@
+//--------
+//  Font
+//--------
+
+//
+// Style
+//
+
+%font--bold {
+  font-weight: bold;
+}
+
+%font--italic {
+  font-style: italic;
+}
+
+//
+// Sizes
+//
+
+%font--milli {
+  font-size: $base-font-size * 0.875;
+}
+
+%font--micro {
+  font-size: $base-font-size * 0.75;
+}
