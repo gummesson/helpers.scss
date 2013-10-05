@@ -1,0 +1,19 @@
+//----------
+//  Images
+//----------
+
+%img--right {
+  float: right;
+  margin-left: $base-spacing-unit;
+}
+
+%img--left {
+  float: left;
+  margin-right: $base-spacing-unit;
+}
+
+%img--center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
