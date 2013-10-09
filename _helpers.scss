@@ -2,11 +2,14 @@
 //  helpers.scss
 //================
 
+// Import the fallback values
 @import "defaults";
-@import "aligments";
-@import "floats";
-@import "fonts";
-@import "images";
-@import "margins";
-@import "paddings";
-@import "transformations";
+
+// Files
+@import "helpers/alignments";
+@import "helpers/floats";
+@import "helpers/fonts";
+@import "helpers/images";
+@import "helpers/margins";
+@import "helpers/paddings";
+@import "helpers/transformations";
